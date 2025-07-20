@@ -8,4 +8,5 @@ Created data connections, joined tables, and performed calculations to prepare a
 
 Enabled user-driven parameters for dynamic and customizable visualizations.
 
-![image](https://github.com/user-attachments/assets/6db7db27-84cc-4cf3-8f48-8b04e2146a10)
+<img width="1110" height="617" alt="image" src="https://github.com/user-attachments/assets/e1a1ed9c-70ac-499b-8196-4a8b908c89e5" />
+
